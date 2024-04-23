@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author: Madhavan Vaidya
+
 # Paths
 log_file="/home/username/backup/backup.log"  
 complete_backup_dir="/home/username/backup/cbw24"  
